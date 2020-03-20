@@ -1,0 +1,609 @@
+
+{
+    "code" : "success",
+    "data" :     {
+        "endRow" : 8,
+        "hasNextPage" : 0,
+        "hasPreviousPage" : 0,
+        "isFirstPage" : 1,
+        "isLastPage" : 1,
+        "navigateFirstPage" : 1,
+        "navigateLastPage" : 1,
+        "navigatePages" : 8,
+        "navigatepageNums" : 1,
+        "nextPage" : 0,
+        "pageNum" : 1,
+        "pageSize" : 10,
+        "pages" : 1,
+        "prePage" : 0,
+        "size" : 8,
+        "startRow" : 1,
+        "total" : 8,
+        "list" :         [
+            {
+                "id": 2621,
+                "name": "周生生黄金足金Charme串珠系列开运福鼠转运珠91440C定价",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i1/15199377/O1CN01NPbC7T2J8iUufTO8U_!!0-saturn_solar.jpg_360x360Q90.jpg_.webp",
+                "price": "1540.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/O1CN01fhgOYP2C1f5JJzZbD-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/O1CN01Yc9Dh02C1f3nPIjog_!!366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN01GhXjLx2C1f59rfLGl_!!366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN01JXaDP52C1f4SGJqTu_!!366168414.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN01mVdKGj2C1f46oDlIy_!!366168414.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN01OsVRny2C1f3metJ4n_!!366168414.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/O1CN01tKbM6j2C1f53y5rca_!!366168414.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/O1CN01I49d4A2C1f59rbZzS_!!366168414.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/O1CN01QCZkn62C1f5AP1M2c_!!366168414.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/O1CN01z4sdCl2C1f3kGEsHr_!!366168414.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN01Ix1c1G2C1f472TmKG_!!366168414.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2622,
+                "name": "周生生珠宝黄金项链 万字项链百搭素链子 09251N计价",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/366168414/O1CN01clHDUG2C1f5EfTY0w-366168414.jpg_360x360Q90.jpg_.webp",
+                "price": "1348.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/O1CN01clHDUG2C1f5EfTY0w-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2FRTaXcH_F1JjSZFKXXbcvFXa-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2PezbXcv_F1JjSZFmXXchWXXa-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2XFa1XoifF1JjSspnXXa5pVXa-366168414.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2p.vwqrBmpuFjSZFuXXaG_XXa-366168414.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/TB2X2yDXgMEF1JjSZFxXXbcVpXa-366168414.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2_VR0aduO.eBjSZFCXXXULFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/O1CN01n80jLQ2C1f53TXXiO_!!366168414.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB21TOAXMOI.eBjSszhXXbHvFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2yYPbXhf9F1JjSZFyXXXnOFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2PO1tXH1K.eBjSsphXXcJOXXa-366168414.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2yCraXX_.F1JjSZFjXXahnXXa-366168414.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2Kw9AbLSM.eBjSZFNXXbgYpXa-366168414.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2623,
+                "name": "周生生珠宝 饰满天星黄金饰项链女款素链计价09263n",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i2/366168414/O1CN01z6EnWd2C1f5KdP949-366168414.jpg_360x360Q90.jpg_.webp",
+                "price": "2016.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/O1CN01z6EnWd2C1f5KdP949-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2nrvcXcr_F1JjSZFoXXbVRXXa-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/TB2G_PbXmY9F1JjSZFFXXaBKXXa-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2L051XoyfF1Jjy0FbXXXSupXa-366168414.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2p.vwqrBmpuFjSZFuXXaG_XXa-366168414.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2seW1XdmgF1Jjy1XaXXcSEFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2_VR0aduO.eBjSZFCXXXULFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN01WMqhe52C1f535IGkr_!!366168414.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB21TOAXMOI.eBjSszhXXbHvFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2emOsXgL8F1JjSspjXXbZgpXa-366168414.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2PO1tXH1K.eBjSsphXXcJOXXa-366168414.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2R16bXhr9F1JjSZPfXXawbFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2Kw9AbLSM.eBjSZFNXXbgYpXa-366168414.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2624,
+                "name": "周生生珠宝足金黄金手链女款圆珠手链手串09466B计价",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/366168414/O1CN017HE6aR2C1f5MvX9b6-366168414.jpg_360x360Q90.jpg_.webp",
+                "price": "5613.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN017HE6aR2C1f5MvX9b6-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/TB2L_.0uHtlpuFjSspoXXbcDpXa-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2r2h.tR0kpuFjSsppXXcGTXXa-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2du8ZtHXlpuFjy1zbXXb_qpXa-366168414.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2p.vwqrBmpuFjSZFuXXaG_XXa-366168414.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB23yHIbL2H8KJjy0FcXXaDlFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2RXkFaNz_F1JjSZFIXXcxHVXa-366168414.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2_VR0aduO.eBjSZFCXXXULFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN01iLyAw32C1f54EvSso_!!366168414.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB21TOAXMOI.eBjSszhXXbHvFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2vyZyr5C9MuFjSZFoXXbUzFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/TB2OnvNbMvD8KJjy0FlXXagBFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB29KrUbPnD8KJjSspbXXbbEXXa-366168414.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/TB29K_WbMDD8KJjy0FdXXcjvXXa-366168414.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2mMDBbTTI8KJjSsphXXcFppXa-366168414.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2bZbKbL2H8KJjy1zkXXXr7pXa-366168414.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2PO1tXH1K.eBjSsphXXcJOXXa-366168414.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB26n4mtHXlpuFjSszfXXcSGXXa-366168414.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2jiLGm3oQMeJjy0FoXXcShVXa_!!366168414.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2625,
+                "name": "U妈周生生珠宝 足金黄金飞机吊坠男女新款时尚潮流金吊坠",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/55809729/O1CN01wWBBbo2LjvsclO8Pe_!!55809729.jpg_360x360Q90.jpg_.webp",
+                "price": "1836.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd3.alicdn.com/imgextra/i2/55809729/O1CN01wWBBbo2LjvsclO8Pe_!!55809729.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd2.alicdn.com/imgextra/i2/55809729/O1CN0194WCOG2LjvrBIPurZ_!!55809729.jpg_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/55809729/O1CN014w1DvX2Ljvp3vNEf2_!!55809729.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/55809729/O1CN01gUPkCU2LjvrB0QP1u_!!55809729.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/55809729/O1CN0194WCOG2LjvrBIPurZ_!!55809729.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2626,
+                "name": "U妈全球购香港直播周生生珠宝黄金镂空工艺设计葫芦吊坠",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/55809729/O1CN01JOrdpC2LjvrbAYvUD_!!55809729.jpg_360x360Q90.jpg_.webp",
+                "price": "2050.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://gd1.alicdn.com/imgextra/i3/55809729/O1CN01JOrdpC2LjvrbAYvUD_!!55809729.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://gd1.alicdn.com/imgextra/i1/55809729/O1CN01CoEWbg2LjvtfiSI0Y_!!55809729.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://gd1.alicdn.com/imgextra/i1/55809729/O1CN019kb97z2LjvrbAYrJP_!!55809729.jpg_400x400.jpg_.webp"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://gd3.alicdn.com/imgextra/i3/55809729/O1CN01JeuIBc2LjvraMbkDn_!!55809729.jpg_400x400.jpg_.webp"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/55809729/O1CN014w1DvX2Ljvp3vNEf2_!!55809729.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2627,
+                "name": "周生生珠宝首饰足金车花蝴蝶黄金饰品手链女款38953B计价",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i4/366168414/O1CN0184xpqE2C1f5KdOwfq-366168414.jpg_360x360Q90.jpg_.webp",
+                "price": "2692.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/O1CN0184xpqE2C1f5KdOwfq-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2.KDatW8lpuFjy0FpXXaGrpXa-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2jnFlx5lnpuFjSZFgXXbi7FXa-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/TB2Hmpwx0RopuFjSZFtXXcanpXa-366168414.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2p.vwqrBmpuFjSZFuXXaG_XXa-366168414.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2ze3GxQqvpuFjSZFhXXaOgXXa-366168414.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2_VR0aduO.eBjSZFCXXXULFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/O1CN01oBG4jQ2C1f52bdcOt_!!366168414.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB21TOAXMOI.eBjSszhXXbHvFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2kt9Rt80kpuFjSsppXXcGTXXa-366168414.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2PO1tXH1K.eBjSsphXXcJOXXa-366168414.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/TB2Uuy8t88lpuFjy0FnXXcZyXXa-366168414.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2628,
+                "name": "周生生18K三色分色黄金小珠手链珠宝首饰女款91150B",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i4/366168414/O1CN016ouDnm2C1f5QhGXSL-366168414.jpg_360x360Q90.jpg_.webp",
+                "price": "1598.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/O1CN016ouDnm2C1f5QhGXSL-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/O1CN01e8pdRA2C1f1wujxFK_!!366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/O1CN01eFpQCK2C1f1xCraZ2_!!366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN01f4kley2C1f4ynJ5b0_!!366168414.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN01NERpwo2C1f1zBSpL1_!!366168414.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/TB2BDYIXNeK.eBjSZFlXXaywXXa-366168414.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/O1CN01aK3oTM2C1f4uqzEo0_!!366168414.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN01bOg4wh2C1f52Nvnvn_!!366168414.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/O1CN01flHZl92C1f51jXUIg_!!366168414.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2J_dPzypnpuFjSZFkXXc4ZpXa-366168414.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/O1CN01FZeycq2C1f1ofetcR_!!366168414.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2629,
+                "name": "周生生珠宝18K白色黄金V&A系列女王桂冠项链首饰87042N",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/366168414/O1CN01KzwHAv2C1f5MYob0v-366168414.jpg_360x360Q90.jpg_.webp",
+                "price": "4233.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN01KzwHAv2C1f5MYob0v-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2IsK7aC69F1JjSZPiXXXfCXXa-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/TB2AES8aAz_F1JjSZFkXXcCaXXa-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2TZOCawAEF1JjSZFLXXbzNXXa-366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/O1CN019eGlPN2C1f1GlzgKY_!!366168414.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/O1CN01fKSQOD2C1eyj6nSgw_!!366168414.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2TyS9asr_F1JjSZFvXXcmJVXa-366168414.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2_VR0aduO.eBjSZFCXXXULFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/O1CN01WOsACN2C1f4wZdKGb_!!366168414.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB21TOAXMOI.eBjSszhXXbHvFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2dh18axr9F1JjSZPfXXawbFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/O1CN01BMle342C1eyiEh9lU_!!366168414.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN015X0qEj2C1eyazhZyv_!!366168414.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/O1CN01iOO9Sb2C1eygw4uvE_!!366168414.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/O1CN01jUw5NW2C1eyjincJq_!!366168414.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/O1CN01hZJCiy2C1eyi3nYuC_!!366168414.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/O1CN01q7RxAQ2C1eyhUNbdw_!!366168414.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2PO1tXH1K.eBjSsphXXcJOXXa-366168414.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2mBx3X3L8F1JjSszgXXarfpXa-366168414.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2Kw9AbLSM.eBjSZFNXXbgYpXa-366168414.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2630,
+                "name": "周生生珠宝Pt950铂金手链首饰54934B计价",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/366168414/O1CN0176edzw2C1f5KU25tc_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "1115.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/O1CN0176edzw2C1f5KU25tc_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2WQVpeBoHL1JjSZFwXXb6vpXa_!!366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB2Sv0seuALL1JjSZFjXXasqXXa_!!366168414.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/TB2eCgDgMMPMeJjy1XdXXasrXXa_!!366168414.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2p.vwqrBmpuFjSZFuXXaG_XXa-366168414.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2dBQOdUFWMKJjSZFvXXaenFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/TB2tGJczEhnpuFjSZFpXXcpuXXa-366168414.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/366168414/O1CN01DCRZ2P2C1f54cY4Cr_!!366168414.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/366168414/TB21TOAXMOI.eBjSszhXXbHvFXa-366168414.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i3/366168414/TB2KMs3gMoQMeJjy1XaXXcSsFXa_!!366168414.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2J_dPzypnpuFjSZFkXXc4ZpXa-366168414.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/366168414/TB2BAqQcEgQMeJjy0FiXXXhqXXa-366168414.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}

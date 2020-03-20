@@ -1,0 +1,852 @@
+{
+    "code" : "success",
+    "data" :     {
+        "endRow" : 8,
+        "hasNextPage" : 0,
+        "hasPreviousPage" : 0,
+        "isFirstPage" : 1,
+        "isLastPage" : 1,
+        "navigateFirstPage" : 1,
+        "navigateLastPage" : 1,
+        "navigatePages" : 8,
+        "navigatepageNums" : 1,
+        "nextPage" : 0,
+        "pageNum" : 1,
+        "pageSize" : 10,
+        "pages" : 1,
+        "prePage" : 0,
+        "size" : 8,
+        "startRow" : 1,
+        "total" : 8,
+        "list" :         [
+            {
+                "id": 2681,
+                "name": "英皇珠宝简单美18K玫瑰金长款线条耳线立体直线耳饰女礼物700339",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/imgextra/i3/133851223/O1CN01HQflhz1KuAwdN3C1S_!!0-saturn_solar.jpg_360x360Q90.jpg_.webp",
+                "price": "342.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/4000232412/O1CN01hsfsS41TgjraSRNha_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/4000232412/O1CN01cW46I81TgjrXf8pw3_!!4000232412.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/4000232412/O1CN01oT8oa21TgjrZZHsxU_!!4000232412.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/4000232412/O1CN01nIdz3L1TgjraRGXWA_!!4000232412.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/4000232412/O1CN01yd0tvN1TgjrX0ExxQ_!!4000232412.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/4000232412/O1CN01kOHpF71TgjrZaPddJ_!!4000232412.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/4000232412/O1CN01D7wHno1TgjrTuVmrX_!!4000232412.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/4000232412/O1CN01MGXpnv1TgjrX1GsY1_!!4000232412.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/4000232412/O1CN01RsNrGX1TgjrWHgZe1_!!4000232412.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/4000232412/O1CN01nVXOle1TgjraSOMS4_!!4000232412.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i4/4000232412/O1CN01qJSKDX1TgjrYDKTRI_!!4000232412.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/4000232412/O1CN01x2opxV1TgjrZaSFkH_!!4000232412.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2682,
+                "name": "CIRCLE日本珠宝 18K金钻石项链女吊坠单钻20分锁骨项链官方正品",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2405130147/O1CN01oSjaib1CxMmvYOsUC_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "2198.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i3/2405130147/O1CN0160ju9u1CxMnuAxGHx_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i3/2405130147/O1CN01fCoz9f1CxMktUWMT4_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/2405130147/O1CN01Pq9QlV1CxMnpfcRGE_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/2405130147/O1CN01xjD1wA1CxMnW7R4i6_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i4/2405130147/O1CN01YMRP8v1CxMhvWEx7r_!!2405130147.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01Xcn5Ry1CxMnrDP5cm_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN016OLZjN1CxMnWQbU39_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01d41ISj1CxMnY0WJtN_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01iBFrRp1CxMnVfAvNI_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01PcXlr51CxMnU6oYGi_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01vnoUZF1CxMnTZ3694_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01ON1c351CxMnQezqI8_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01ZOICF31CxMnU6Pqn4_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01ZRKLpg1CxMnWyjxko_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01UDliVz1CxMnTopRNn_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01nt5dxr1CxMnToqyzF_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN015hS9Yk1CxMnY0UqXQ_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01RvyFCy1CxMnWyjMNU_!!2405130147.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2683,
+                "name": "CIRCLE日本珠宝 9K金一颗天然akoya海水珍珠项链女镶嵌钻石吊坠",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i2/2405130147/O1CN010U9grE1CxMoGEGOeV_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "1998.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN010U9grE1CxMoGEGOeV_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN017Yajib1CxMmcmIP9U_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN010xhG2a1CxMmf5Xtmb_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01sePEHE1CxMmgY0iyS_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01nt2VSC1CxMnPGQJRB_!!2405130147.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01hMOaTT1CxMmgMhu5p_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01FZxUJd1CxMmczh7xJ_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01eKLxQH1CxMmf5ZulQ_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01XtSblh1CxMmeKvp03_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01UTJkIt1CxMmf5ZFAa_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01xjQU871CxMmetmjrT_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN015wate11CxMmgY3btc_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01W1vIWB1CxMmhp5pFa_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01InZpxW1CxMmhH01je_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01frhltd1CxMmXBRuli_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN013dl3Ns1CxMmboxlrk_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01xXMmAR1CxMmf5ZZzA_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01OKhsOb1CxMmgMhAST_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01JdsOyl1CxMmf38vr1_!!2405130147.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2684,
+                "name": "【新品】CIRCLE日本珠宝 18k黄金星星钻石耳钉 群镶工艺轻奢耳饰",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i3/2405130147/O1CN01Lsf9Ym1CxMnuGYTOI_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "3398.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01Lsf9Ym1CxMnuGYTOI_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01OncOtb1CxMnyvrZjI_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01F3uFYf1CxMnyvuG49_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01Wmsaix1CxMo0FO82u_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN015pNrcM1CxMo4zZhaM_!!2405130147.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01gzxLul1CxMo4z9rSd_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01Q0f9xD1CxMnzhjSPs_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN017VCbrT1CxMntj65fJ_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01m9Iq1m1CxMo3efUQo_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01npwfTp1CxMo4Rf3WN_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01YFXRqb1CxMnzhj7ez_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01Y9OjxS1CxMo3ehEYl_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01kELhwe1CxMo5d7zg3_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01j0NpQf1CxMo2pnJ7H_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01LjJg3r1CxMo18U8UF_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN015GOQdc1CxMo3egEAA_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01bWJ13M1CxMo4CrWak_!!2405130147.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2685,
+                "name": "CIRCLE日本珠宝 明星同款18K彩金群镶钻石项链女轻奢锁骨链吊坠",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i1/2405130147/O1CN012PvCu81CxMn1YSrPW_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "3698.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i1/2405130147/O1CN011sjvC21CxMo0jvE0Y_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/2405130147/O1CN01VlYhdO1CxMnomXdnS_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i4/2405130147/O1CN01ubMfdB1CxMo0jPPim_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/2405130147/O1CN01K0Ih2p1CxMnwEjP99_!!2405130147.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i1/2405130147/O1CN01xjD1wA1CxMnW7R4i6_!!2405130147.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01Oqseox1CxMnmEz206_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN014RA1iu1CxMl94IMpB_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01nNIn3M1CxMlBthISv_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01f4JjT51CxMlDTEdff_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN016PXjJa1CxMlBthZ5N_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01uZW6Cw1CxMl3EV9aY_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01bd1CCw1CxMlAOwTlC_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01cCHasN1CxMlDwm4Fp_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01eGDFfo1CxMlAlSLZQ_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01ok2RkM1CxMlAlVQor_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01YypWpR1CxMlA1kWRE_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN018x7pDV1CxMlA1krDU_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01xuYl6T1CxMlDH8kD3_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01M1iHJv1CxMlDH8H9h_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01DJmIGQ1CxMlA1kBew_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01m3HizZ1CxMlBth63Q_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 17,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN011KMiv51CxMlDwkey6_!!2405130147.jpg"
+                    },
+                    {
+                        "id": 18,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01WNSW2F1CxMlDwlSse_!!2405130147.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2686,
+                "name": "CIRCLE日本珠宝  9K黄金白金手镯红绳情侣手链男女闺蜜礼物转运珠",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2200657715182/O1CN014GcB7Y1o9P08HcqPz_!!2200657715182-0-sm.jpg_360x360Q90.jpg_.webp",
+                "price": "1998.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/2200657715182/O1CN014GcB7Y1o9P08HcqPz_!!2200657715182-0-sm.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/2200877014436/O1CN01PNc2Wi1idjWtJrfur_!!2200877014436.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/2200877014436/O1CN01mcaypd1idjWuh8vDG_!!2200877014436.png_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/2200657715182/O1CN018ZdKQf1o9OzmkW5Nl_!!2200657715182.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/2200877014436/O1CN01PZjF8U1idjWvTXyGp_!!2200877014436.png_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01A4QU7i1CxMnp5TBq9_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01kBf21J1CxMnseYB5Y_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01449QGm1CxMnv3adlJ_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN017TZqhJ1CxMnq38pqv_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01nNJoTT1CxMnuGoy6r_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01n0LfWV1CxMnsH7RRX_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01HPP9wh1CxMnu7AC18_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN017e2Bu11CxMns7Aowq_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01P96lIZ1CxMnu7BT35_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01q5mnWp1CxMnwF53fc_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01qPMeWi1CxMntUSCXp_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01dZ7ZEc1CxMnwF6Sy4_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01t9fdyF1CxMnroV9X3_!!2405130147-0-scmitem1000.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2687,
+                "name": "CIRCLE日本珠宝 18K金钻石项链女吊坠单钻10分锁骨项链",
+                "imgUrl": "https://g-search1.alicdn.com/img/bao/uploaded/i4/i2/2200657715182/O1CN01qmvJ831o9P07m9iI4_!!2200657715182-0-sm.jpg_360x360Q90.jpg_.webp",
+                "price": "2998.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i2/2200657715182/O1CN01qmvJ831o9P07m9iI4_!!2200657715182-0-sm.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/2200657715182/O1CN01Dy2UaW1o9OzmRMgJv_!!2200657715182.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/2200657715182/O1CN01xdW0Jc1o9Ozmnatxq_!!2200657715182.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/2200657715182/O1CN01Gxkbk31o9OzpDuJEC_!!2200657715182.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/2200657715182/O1CN01a3wo071o9OzmGoOkt_!!2200657715182.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN0117mnk11CxMnsMNeK0_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01578R6o1CxMnrtnEt1_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01eDEWMJ1CxMnv8ydGO_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01dmTHaY1CxMnq8Kg8h_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01YmcGvy1CxMnwKUnJT_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01qthVQF1CxMnq8KLMd_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01V0DZIS1CxMnuCOaMu_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01lbAwub1CxMnkUW6a5_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN011eqsL21CxMnvg60ak_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01Ua7j6B1CxMnwkAxWB_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01W0RdJz1CxMnpAmglJ_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01P7inhZ1CxMntZfzW6_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01Zkj4R71CxMnq8L9GG_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01wS4tQE1CxMnuM83mi_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01n1Y3Aa1CxMnv90RX4_!!2405130147-0-scmitem1000.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2688,
+                "name": "CIRCLE日本珠宝 10K黄金耳饰素金耳线双鱼耳坠菲尼系列彩金耳环女",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i1/2807304908/O1CN01smAQwe1m7uToU0nZt_!!2807304908-0-sm.jpg_360x360Q90.jpg_.webp",
+                "price": "1398.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/2807304908/O1CN01smAQwe1m7uToU0nZt_!!2807304908-0-sm.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/2200877014436/O1CN01Y8rXLY1idjWu6RbSW_!!2200877014436.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/2200877014436/O1CN01WZhdi91idjWx2q0GY_!!2200877014436.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/2200877014436/O1CN01ownqtG1idjWxhFne8_!!2200877014436.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i3/2200877014436/O1CN018A7mMn1idjWu6U9T7_!!2200877014436.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01EZU9M91CxMnpKted4_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01OpTuLW1CxMnwUssjX_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01g6feen1CxMnwUt9MY_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN0134Al2C1CxMnqdSSYc_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01NfaQch1CxMnwuaSEE_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01zNzZjp1CxMnsu6xzY_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN010J9w6O1CxMnkexsxF_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01gkXvSF1CxMnqdRzSy_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01CDA49O1CxMnsu4kmj_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01FDZXki1CxMnqdQRpH_!!2405130147-0-scmitem1000.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2689,
+                "name": "CIRCLE日本珠宝 9K彩金天然Akoya大溪地黑珍珠项链女双层锁骨链",
+                "imgUrl": "https://g-search3.alicdn.com/img/bao/uploaded/i4/i3/2807304908/O1CN01jjLujv1m7uTqjCGVZ_!!2807304908-0-sm.jpg_360x360Q90.jpg_.webp",
+                "price": "2198.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/2807304908/O1CN01jjLujv1m7uTqjCGVZ_!!2807304908-0-sm.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/2200877014436/O1CN01chOiSt1idjWtsAACt_!!2200877014436.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i2/2200877014436/O1CN01gaJ5wf1idjWws7Vbk_!!2200877014436.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/2200877014436/O1CN01X4kxdq1idjWqMnqpA_!!2200877014436.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/2200877014436/O1CN01Ka4ViV1idjWxWUx8p_!!2200877014436.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01iaMBY11CxMnsfl1zE_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01TwRuFU1CxMnsjUiUL_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01TsyhyH1CxMnsjWf4K_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN013bxmTr1CxMnpAOv5w_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN010bXtPg1CxMnuBxSwW_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01ldEvu91CxMntZDOWy_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01OsCzF81CxMnwK3L30_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i1/2405130147/O1CN01Jx3JHk1CxMntZFXUv_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01N8E2Hx1CxMnsfldQi_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01lEW7FL1CxMnqSlVd5_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i2/2405130147/O1CN01kCgJez1CxMnqSl2Wx_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01xmtGyg1CxMnuBxSx4_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01bQbtb01CxMntZFXVG_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i4/2405130147/O1CN01zsrlzQ1CxMnsM2V08_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 15,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN01wubptB1CxMnqSmmb0_!!2405130147-0-scmitem1000.jpg"
+                    },
+                    {
+                        "id": 16,
+                        "url": "https://img.alicdn.com/imgextra/i3/2405130147/O1CN012S8rIl1CxMnsfn6sW_!!2405130147-0-scmitem1000.jpg"
+                    }
+                ]
+            },
+            {
+                "id": 2690,
+                "name": "CIRCLE正品项链女日本珠宝9K黄金彩宝爱在心里系列送礼表白颈链",
+                "imgUrl": "https://g-search2.alicdn.com/img/bao/uploaded/i4/i3/2200771327375/O1CN01xqujQc24LnV6HdeJW_!!0-item_pic.jpg_360x360Q90.jpg_.webp",
+                "price": "3699.00",
+                "carousels": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i3/2200771327375/O1CN01xqujQc24LnV6HdeJW_!!0-item_pic.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i4/2200771327375/O1CN01Z9xxgt24LnV3oaNc3_!!2200771327375.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/2200771327375/O1CN019uSprb24LnWXIawe2_!!2200771327375.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i4/2200771327375/O1CN01r6x1ap24LnV51IWzZ_!!2200771327375.jpg_400x400q90.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i4/2200771327375/O1CN019UousB24LnXEr0GwW_!!2200771327375.jpg_400x400q90.jpg"
+                    }
+                ],
+                "details": [
+                    {
+                        "id": 1,
+                        "url": "https://img.alicdn.com/imgextra/i1/2200771327375/O1CN01lK46dU24LnV55PmYT_!!2200771327375.jpg"
+                    },
+                    {
+                        "id": 2,
+                        "url": "https://img.alicdn.com/imgextra/i3/2200771327375/O1CN015CyEcC24LnV5BAb30_!!2200771327375.jpg"
+                    },
+                    {
+                        "id": 3,
+                        "url": "https://img.alicdn.com/imgextra/i1/2200771327375/O1CN01BVB3Mc24LnV3oy0c8_!!2200771327375.jpg"
+                    },
+                    {
+                        "id": 4,
+                        "url": "https://img.alicdn.com/imgextra/i3/2200771327375/O1CN01IFpDIw24LnUx3TjF4_!!2200771327375.jpg"
+                    },
+                    {
+                        "id": 5,
+                        "url": "https://img.alicdn.com/imgextra/i2/2200771327375/O1CN01jX1UTU24LnV6tV4uw_!!2200771327375.jpg"
+                    },
+                    {
+                        "id": 6,
+                        "url": "https://img.alicdn.com/imgextra/i1/2200771327375/O1CN01dy0w2F24LnV5gXHwl_!!2200771327375.jpg"
+                    },
+                    {
+                        "id": 7,
+                        "url": "https://img.alicdn.com/imgextra/i1/2200771327375/O1CN01qV5Vkk24LnV5gZpwh_!!2200771327375.jpg"
+                    },
+                    {
+                        "id": 8,
+                        "url": "https://img.alicdn.com/imgextra/i2/2200771327375/O1CN01Hwdq2M24LnV4CZkPb_!!2200771327375.jpg"
+                    },
+                    {
+                        "id": 9,
+                        "url": "https://img.alicdn.com/imgextra/i4/2200771327375/O1CN01a7xovC24LnWTNsfcg_!!2200771327375.jpg"
+                    },
+                    {
+                        "id": 10,
+                        "url": "https://img.alicdn.com/imgextra/i2/2200771327375/O1CN01lfwX0A24LnV49VxTr_!!2200771327375.jpg"
+                    },
+                    {
+                        "id": 11,
+                        "url": "https://img.alicdn.com/imgextra/i1/2200771327375/O1CN012pNCBd24LnV6Hbpul_!!2200771327375.jpg"
+                    },
+                    {
+                        "id": 12,
+                        "url": "https://img.alicdn.com/imgextra/i3/2200771327375/O1CN0174Whq424LnX95C0Ir_!!2200771327375.jpg"
+                    },
+                    {
+                        "id": 13,
+                        "url": "https://img.alicdn.com/imgextra/i3/2200771327375/O1CN01lUmEMe24LnV3XFgcZ_!!2200771327375.jpg"
+                    },
+                    {
+                        "id": 14,
+                        "url": "https://img.alicdn.com/imgextra/i1/2200771327375/O1CN01da3bi124LnV6tU0QG_!!2200771327375.jpg"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "code": "success",
+    "msg": "操作成功",
+    "data": {
+        "id": 11,
+        "name": "珠宝",
+        "subTags": [
+            {
+                "id": 2601,
+                "tagName": "Chow Tai Seng/周大生",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/673558948/O1CN01Hi7Vnj2FyEaNGLHP1_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2611,
+                "tagName": "六福珠宝",
+                "imgUrl": "https://img.alicdn.com/imgextra/i4/875218289/O1CN01QJt33E2B6PZt5zx96_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2621,
+                "tagName": "周生生",
+                "imgUrl": "https://img.alicdn.com/imgextra/i4/366168414/O1CN01fhgOYP2C1f5JJzZbD-366168414.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2631,
+                "tagName": "周大福",
+                "imgUrl": "https://img.alicdn.com/imgextra/i4/407700539/O1CN01jmPQVh1Fqu3Ql9pgo_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2641,
+                "tagName": "Leysen1855/莱绅通灵",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i4/1807576782/O1CN01kPh8z61zyCho5p2VW_!!1807576782.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2651,
+                "tagName": "CHJ/潮宏基",
+                "imgUrl": "https://img.alicdn.com/imgextra/i4/279512537/O1CN019Kpj7b1UbzPKqZlW1-279512537.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2661,
+                "tagName": "ZLF/周六福",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i4/1714119909/O1CN01K6WnUs2N4NCghEP0I_!!1714119909.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2671,
+                "tagName": "LAC",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/2637475702/O1CN011rzYpdrsD7t9Dk3_!!2637475702-0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2681,
+                "tagName": "CIRCLE/缘点",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/4000232412/O1CN01hsfsS41TgjraSRNha_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2691,
+                "tagName": "China Gold/中国黄金",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/4000232412/O1CN01CeXRpY1TgjnizpszD_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2701,
+                "tagName": "Zocai/佐卡伊",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i1/93733656/O1CN01q7c3v01csUaUCasBA_!!93733656.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2711,
+                "tagName": "CRD/克徕帝",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i2/129704967/O1CN01NkgXBg1mYvqXEUwG9-129704967.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2721,
+                "tagName": "明牌珠宝",
+                "imgUrl": "https://img.alicdn.com/imgextra/i4/875218289/O1CN016qnx9O2B6PZvidHtM_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2731,
+                "tagName": "米莱",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/784477142/TB1yDR5k8cHL1JjSZFBXXaiGXXa_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2741,
+                "tagName": "DR DARRY RING",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/2087981999/O1CN01v0gZnr1QdaK2PeIH3_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2751,
+                "tagName": "YCZB/伊彩",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i4/3851572422/O1CN01lC9Wlk1TlJoIFpZrl_!!3851572422.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2761,
+                "tagName": "碧玉尊",
+                "imgUrl": "https://img.alicdn.com/imgextra/i1/743970815/O1CN01L8s1gn1HtJNjIW4HH_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2771,
+                "tagName": "soinlove",
+                "imgUrl": "https://img.alicdn.com/imgextra/i4/3409113710/O1CN01vvZaI31dHDxUcvtnU_!!0-item_pic.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2781,
+                "tagName": "US DIAMOND/喜钻",
+                "imgUrl": "https://img.alicdn.com/imgextra/https://img.alicdn.com/bao/uploaded/i4/1882674144/O1CN010Odrky1gTzsrp81wR-1882674144.jpg_400x400q90.jpg"
+            },
+            {
+                "id": 2791,
+                "tagName": "YIN",
+                "imgUrl": "https://img.alicdn.com/imgextra/i3/3422274373/O1CN01Rssn3Q1iAsUooRkUG_!!0-item_pic.jpg_400x400q90.jpg"
+            }
+        ]
+    }
+}
